@@ -1,0 +1,19 @@
+{
+  "name": "fundamentals_forms",
+  "version": "1.0.0",
+  "description": "my first project node's",
+  "main": "application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Natali1994/Mifort_htmlcss_block1_fundamentals.git"
+  },
+  "author": "Natali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Natali1994/Mifort_htmlcss_block1_fundamentals/issues"
+  },
+  "homepage": "https://github.com/Natali1994/Mifort_htmlcss_block1_fundamentals#readme"
+}
